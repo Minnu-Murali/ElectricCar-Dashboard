@@ -1,0 +1,55 @@
+# --- Node ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Expo & React Native ---
+.expo/
+.expo-shared/
+android/
+ios/
+web-build/
+dist/
+build/
+*.iml
+
+# --- Metro bundler cache ---
+.cache/
+.expo/
+.expo-shared/
+
+# --- Environment ---
+.env
+.env.*
+!.env.example
+
+# --- System files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+logs/
+debug.log
+
+# --- VSCode ---
+.vscode/
+.history/
+
+# --- JetBrains ---
+.idea/
+out/
+
+# --- Misc ---
+coverage/
+temp/
+tmp/
+*.tsbuildinfo
+.eslintcache
+
+# --- Web Stuff ---
+public/build/
+.next/
+.svelte-kit/
