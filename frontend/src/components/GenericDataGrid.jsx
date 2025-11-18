@@ -130,5 +130,4 @@ const GenericDataGrid = ({
     </div>
   );
 };
-
 export default GenericDataGrid;
